@@ -5,11 +5,11 @@ permalink: /contact/
 feature-img: "img/color.png"
 ---
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+Thank you for perusing my portfolio and blogs. I am eager to talk with you if you have questions or wish me to go into further detail on anything you have seen here. Please fill in the information below and I will do my best to contact you within 24 hours. Thanks again!
 
-<form action="https://getsimpleform.com/messages?form_api_token=_yourtoken_" method="post">
-  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='http://bloc.github.io/portfolio-iro/thank-you/' />
+<form action="https://getsimpleform.com/messages?form_api_token=2cf788cf3e6c37741b15f2137b45d0ee" method="post">
+  <!--http://Beth-Powell.github.io/thank-you-->
+  <input type='hidden' name='redirect_to' value='http://Beth-Powell.github.io/portfolio-iro/thank-you/' />
   <input type='text' name='name' placeholder='Your Full Name' />
   <input type='email' name='email' placeholder='Your E-mail Address' />
   <textarea name='message' placeholder='Write your message ...'></textarea>
